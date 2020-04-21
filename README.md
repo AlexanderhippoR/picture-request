@@ -1,4 +1,4 @@
 # picture-request
 request photos
-i am a professional photographer
+Professional photographer,
 i will take reqeust for photos
